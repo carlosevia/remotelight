@@ -27,6 +27,6 @@
  <topicref href="ref-specifications-overview.dita">
   <topicref href="ref-specifications-remote-control.dita"/>
   <topicref href="ref-specifications-led-bulb.dita"/>
- </topicref>
+ </topicref> 
  <topicref href="osha-warning.dita" toc="no" processing-role="resource-only" />
 </map>
