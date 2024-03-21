@@ -8,7 +8,7 @@
  <prolog>
   <author>Kevin Lewis</author>
   <copyright>
-   <copyryear year="2017"/>
+   <copyryear year="2024"/>
    <copyrholder>Remote Lighting Enterprises</copyrholder>
   </copyright>
  </prolog>
@@ -26,7 +26,7 @@
    <title>Wireless lighting passing information across light bulbs</title>
    <image href="images/mesh-lighting-network.png" id="figure-bulbs-passing-signal"/>
   </fig>
-  <p>Since wireless devices on a low-power network have built-in antennas for radio communication
+  <p>Because wireless devices on a low-power network have built-in antennas for radio communication
    with other connected devices, they may be prone to the same reception problems that you might
    have with your mobile phone inside a building. Your remote control can have trouble communicating
    with the network lighting if their radio signals are blocked by obstacles such as large metal
