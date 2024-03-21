@@ -7,7 +7,7 @@
     <prolog>
         <author>Kevin Lewis</author>
         <copyright>
-            <copyryear year="2017"/>
+            <copyryear year="2024"/>
             <copyrholder>Remote Lighting Enterprises</copyrholder>
         </copyright>
         <metadata>
@@ -30,7 +30,6 @@
                     the remote control.</note></p>
         </context>
         <steps>
-            <stepsection>To program light bulbs to a lighting group:</stepsection>
             <step>
                 <cmd>Make sure your remote control is in range of the light bulbs you are
                     adding.</cmd>
